@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/marcolara/:/",
-    "/content/marcolara/configuration:/.helix/config.json",
-    "/content/marcolara/metadata:/metadata.json"
+    "/content/slowlane/:/",
+    "/content/slowlane/configuration:/.helix/config.json",
+    "/content/slowlane/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/marcolara/"
+    "/content/slowlane/"
   ]
 }
